@@ -18,4 +18,4 @@ I am passionate about physics, science and computing. In my free time I like to 
 <a target="_blank" href="https://fb.com/vittoriathomasini">
   <img align="left" alt="Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<img src="https://giphy.com/embed/qP2YwW2BpB2K0qMjMk" width="40" height="40" />
+<img src="https://media.giphy.com/media/qP2YwW2BpB2K0qMjMk/giphy.gif" width="40" height="40" />
