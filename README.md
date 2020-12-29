@@ -1,6 +1,6 @@
 <h1>Hi! I´m Vittoria, and welcome to my profile! :vulcan_salute:</h1>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vittoria-thomasini.vittoria-thomasini)
-
+<img src="https://visitor-badge.glitch.me/badge?page_id=vittoria-thomasini.vittoria-thomasini" alt="visitor badge"/>
+ 
 I'm 21 years old from Brazil.</br>
 I'm a student of Computer Engineering. <img src="https://media.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif" width="25"> 
 
