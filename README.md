@@ -1,6 +1,8 @@
 <h1>Hi! I´m Vittoria, and welcome to my profile! :vulcan_salute:</h1>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vittoria-thomasini.vittoria-thomasini)
 
-I'm 21 years old from Brazil. I'm a student of Computer Engineering :mortar_board: and I have been working with software development for 1 year.
+I'm 21 years old from Brazil.</br>
+I'm a student of Computer Engineering. <img src="https://media.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif" width="25"> 
 
 I am passionate about physics, science and computing. In my free time I like to play League of legends, watch movies, draw and play with my dog Laika.
 
