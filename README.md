@@ -22,6 +22,9 @@ I am passionate about physics, science and computing. In my free time I like to 
   <img align="left" alt="Facebook" width="40px" src="https://img.icons8.com/color/48/000000/facebook-circled--v5.png" />
 </a></br>
 
+
+</br>
+</br>
 </br>
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vittoria-thomasini&show_icons=true&theme=jolly)
