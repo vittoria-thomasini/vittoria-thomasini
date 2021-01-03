@@ -10,10 +10,10 @@ I am passionate about physics, science and computing. In my free time I like to 
 <h3>Contact me!</h3>
 
 <a target="_blank" href="https://www.linkedin.com/in/vittoria-thomasini">
-  <img align="left" alt="Linkedin" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="35px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 <a target="_blank" href="https://www.instagram.com/vittoria-thomasini/">
-  <img align="left" alt="Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="35px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
 </a>
 <a target="_blank" href="mailto:vittoriathomasini@hotmail.com">
   <img align="left" alt="Outlook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />
