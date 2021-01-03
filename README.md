@@ -1,6 +1,6 @@
 <h1>Hi! I´m Vittoria, and welcome to my profile! :vulcan_salute:</h1>
 
-
+<img src="https://visitor-badge.glitch.me/badge?page_id=vittoria-thomasini.vittoria-thomasini" alt="visitor badge"/>
 <p align="justify"> 
 I'm 21 years old from Brazil.</br>
 I'm a student of Computer Engineering. <img src="https://media.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif" width="25"> 
@@ -25,5 +25,6 @@ I am passionate about physics, science and computing. In my free time I like to 
 </br>
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vittoria-thomasini&show_icons=true&theme=jolly)
-<img align="right" src="https://media.giphy.com/media/qP2YwW2BpB2K0qMjMk/giphy.gif" width="160" height="120" />
+<!--<img align="right" src="https://media.giphy.com/media/qP2YwW2BpB2K0qMjMk/giphy.gif" width="160" height="120" />--!>
 
+<img align="right" src="https://media.giphy.com/media/fH6uDPLfxDG7RLECgX/giphy.gif" width="100" height="120" />
