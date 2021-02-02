@@ -28,6 +28,8 @@ I am passionate about physics, science and computing. In my free time I like to 
 </br>
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vittoria-thomasini&show_icons=true&theme=jolly)
-<!--<img align="right" src="https://media.giphy.com/media/qP2YwW2BpB2K0qMjMk/giphy.gif" width="160" height="120" />--!>
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoria-thomasini&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--<img align="right" src="https://media.giphy.com/media/qP2YwW2BpB2K0qMjMk/giphy.gif" width="160" height="120" />--!>
 <img align="right" src="https://media.giphy.com/media/fH6uDPLfxDG7RLECgX/giphy.gif" width="100" height="120" />
