@@ -5,8 +5,9 @@
 
 <h3 align="center">I am passionate about physics, science and computing.</h3>
 <p align="left">
-📝 I'm a student of Computer Engineering. </br>
+📝 I'm a student of Computer Engineering.</br>
 🧠 I´ve been working with tecnology since 2018. My first job has as teaching children from 4 to 17 years old using STEAM (Science, Tecnology, Enginnering, Arts and Mathematics) to code and innovation having fun! Following, I embarked on a journey making a internship at a startup which used bot with Artificial Inteligence to manage calls and in the same time I did a internship working with support and customer service in an ERP company. At the ERP company workplace I had the opportunity to change career path and work as a full-time software developer for almost 3 years development on the ERP system, e-commerce system and logistic system. Currently, I'm an intern looking for my purpose and making the world run better.</br>
+🔓 I’m currently unlocking knowledge on JavaScript, HTML, CSS, Node and React. That means I´m a student in process of turning into a developer. Also, I like to study UX techniques and improve my UI knowledge. 
 ⚡ Fun Fact: In my free time I like to play videogames, watch animation movies and investigation series, drink beer  and play with my dog Laika.
 </p>
 <h3 align="left">Would you like to find me?</h3>
