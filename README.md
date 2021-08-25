@@ -25,6 +25,7 @@
 
 </br>
 </br>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vittoria-thomasini&show_icons=true&theme=jolly) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vittoria-thomasini&layout=compact&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
